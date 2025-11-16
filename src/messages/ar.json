@@ -47,6 +47,7 @@
     "soldOut": "نفدت التذاكر"
   },
   "booking": {
+    "bookTicket": "حجز تذكرة",
     "bookYourTicket": "احجز تذكرتك",
     "fullName": "الاسم الكامل",
     "fullNameDescription": "أدخل اسمك الكامل لحجز تذكرتك.",

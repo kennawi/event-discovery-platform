@@ -49,9 +49,7 @@ export async function bookTicketAction(
     };
 
     const response = await fetch(
-      `${
-        process.env.NEXT_PUBLIC_API_URL || "http://localhost:3000"
-      }/api/bookings`,
+      `${process.env.BASE_API_URL || "http://localhost:3000"}/api/bookings`,
       {
         method: "POST",
         headers: {

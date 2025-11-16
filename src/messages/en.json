@@ -47,6 +47,7 @@
     "soldOut": "Sold Out"
   },
   "booking": {
+    "bookTicket": "Book Ticket",
     "bookYourTicket": "Book Your Ticket",
     "fullName": "Full Name",
     "fullNameDescription": "Enter your full name to book your ticket.",

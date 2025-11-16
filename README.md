@@ -47,13 +47,13 @@ npm install
 Create a `.env.local` file in the root directory:
 
 ```env
-NEXT_PUBLIC_API_URL=http://localhost:3000
+BASE_API_URL=http://localhost:3000
 ```
 
 For production, update this URLs to your domain:
 
 ```env
-NEXT_PUBLIC_API_URL=https://yourdomain.com
+BASE_API_URL=https://yourdomain.com
 ```
 
 ## 🏃 Running the Application

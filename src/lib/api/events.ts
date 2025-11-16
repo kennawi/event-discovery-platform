@@ -1,6 +1,6 @@
 import { Event } from "@/types/events";
 
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || "http://localhost:3000";
+const API_BASE_URL = process.env.BASE_API_URL || "http://localhost:3000";
 
 /**
  * Fetches all events from the API
