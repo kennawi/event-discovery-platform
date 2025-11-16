@@ -1,0 +1,566 @@
+[
+  {
+    "id": "evt-001",
+    "slug": "tech-innovation-summit-2024",
+    "title": "قمة الابتكار التقني 2024",
+    "description": "انضم إلى قادة الصناعة ليوم من المناقشات التقنية المتطورة والتواصل.",
+    "longDescription": "تجمع قمة الابتكار التقني 2024 ألمع العقول في التكنولوجيا لاستكشاف أحدث الاتجاهات والابتكارات والإمكانيات المستقبلية. يتضمن هذا الحدث الذي يستمر طوال اليوم خطابات رئيسية من قادة الصناعة وورش عمل تفاعلية ومناقشات جماعية وفرص للتواصل. تشمل المواضيع الذكاء الاصطناعي/التعلم الآلي والحوسبة السحابية والأمن السيبراني والتقنيات الناشئة. سواء كنت مطورًا أو رائد أعمال أو من محبي التكنولوجيا، تقدم هذه القمة رؤى واتصالات قيمة.",
+    "date": "2024-06-15T09:00:00Z",
+    "endDate": "2024-06-15T18:00:00Z",
+    "location": {
+      "venue": "Convention Center",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States"
+    },
+    "category": "Technology",
+    "tags": ["technology", "innovation", "networking", "AI", "startups"],
+    "imageUrl": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800",
+    "price": 299,
+    "attendeeCount": 450,
+    "maxAttendees": 500,
+    "organizer": {
+      "name": "Tech Events Inc.",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100"
+    },
+    "featured": true,
+    "createdAt": "2024-01-10T10:00:00Z"
+  },
+  {
+    "id": "evt-002",
+    "slug": "local-art-gallery-opening",
+    "title": "افتتاح معرض الفن المحلي",
+    "description": "احتفل بافتتاح معرض الفن المعاصر الجديد الذي يضم فنانين محليين.",
+    "longDescription": "انضم إلينا للاحتفال الحصري بليلة الافتتاح لأحدث معرض فني معاصر لدينا. يعرض هذا الحدث أعمال فنانين محليين موهوبين، بما في ذلك اللوحات والمنحوتات والتركيبات الفنية الرقمية. استمتع بالمشروبات المجانية والموسيقى الحية وفرصة لقاء الفنانين. سيدوم المعرض لمدة ثلاثة أشهر، لكن ليلة الافتتاح تقدم معاينة خاصة وفرصة لشراء الأعمال الفنية قبل الافتتاح للجمهور.",
+    "date": "2024-05-20T18:00:00Z",
+    "endDate": "2024-05-20T22:00:00Z",
+    "location": {
+      "venue": "Downtown Art Gallery",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States"
+    },
+    "category": "Arts & Culture",
+    "tags": ["art", "gallery", "exhibition", "local artists", "culture"],
+    "imageUrl": "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=800",
+    "price": "free",
+    "attendeeCount": 120,
+    "maxAttendees": 200,
+    "organizer": {
+      "name": "Art Collective NYC",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100"
+    },
+    "featured": false,
+    "createdAt": "2024-04-15T14:30:00Z"
+  },
+  {
+    "id": "evt-003",
+    "slug": "marathon-charity-run-2024",
+    "title": "ماراثون الجري الخيري 2024",
+    "description": "اركض من أجل قضية! انضم إلى آلاف العدائين في ماراثوننا الخيري السنوي.",
+    "longDescription": "ماراثون الجري الخيري 2024 هو أكبر حدث لجمع التبرعات في العام. يمكن للمشاركين الاختيار بين ماراثون كامل (26.2 ميل) أو نصف ماراثون (13.1 ميل) أو جري ممتع 5 كيلومترات. تذهب جميع العائدات مباشرة إلى جمعيات الأطفال المحلية. يأخذك المسار عبر حدائق المدينة الخلابة والأحياء التاريخية. يحصل كل مشارك على قميص تذكاري وميدالية ووجبات خفيفة بعد السباق. برامج التدريب ومجموعات الدعم متاحة لجميع مستويات المهارة.",
+    "date": "2024-07-08T07:00:00Z",
+    "endDate": "2024-07-08T14:00:00Z",
+    "location": {
+      "venue": "Central Park",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States"
+    },
+    "category": "Sports & Fitness",
+    "tags": ["marathon", "running", "charity", "fitness", "community"],
+    "imageUrl": "https://images.unsplash.com/photo-1571008887538-b36bb32f4571?w=800",
+    "price": 75,
+    "attendeeCount": 2500,
+    "maxAttendees": 3000,
+    "organizer": {
+      "name": "Charity Runners Association",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100"
+    },
+    "featured": true,
+    "createdAt": "2024-02-01T09:00:00Z"
+  },
+  {
+    "id": "evt-004",
+    "slug": "jazz-night-live-music",
+    "title": "ليلة الجاز: تجربة موسيقية حية",
+    "description": "أمسية حميمة من عروض الجاز الحية من قبل موسيقيين مشهورين.",
+    "longDescription": "اختبر سحر الجاز الحي في مكان حميم. تتضمن هذه الأمسية الخاصة عروضًا من موسيقيي الجاز الحائزين على جوائز، بما في ذلك المعايير الكلاسيكية والتأليفات الأصلية. الصوتيات في المكان مثالية لتقدير كل نغمة. استمتع بمشروبات الحرفيين والأطباق الصغيرة الفاخرة أثناء الاستماع إلى موسيقى عالمية المستوى. المقاعد المحدودة تضمن تجربة حصرية لا تُنسى لجميع الحضور.",
+    "date": "2024-06-22T20:00:00Z",
+    "endDate": "2024-06-23T00:00:00Z",
+    "location": {
+      "venue": "The Blue Note",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States"
+    },
+    "category": "Music",
+    "tags": ["jazz", "live music", "nightlife", "entertainment"],
+    "imageUrl": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=800",
+    "price": 45,
+    "attendeeCount": 85,
+    "maxAttendees": 100,
+    "organizer": {
+      "name": "Jazz Society Chicago",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100"
+    },
+    "featured": false,
+    "createdAt": "2024-05-01T11:00:00Z"
+  },
+  {
+    "id": "evt-005",
+    "slug": "startup-pitch-competition",
+    "title": "مسابقة عرض المشاريع الناشئة",
+    "description": "شاهد الشركات الناشئة المبتكرة تعرض أفكارها على لجنة من المستثمرين وتربح التمويل.",
+    "longDescription": "تجمع مسابقة عرض المشاريع الناشئة أكثر الشركات الناشئة في المراحل المبكرة الواعدة للحصول على فرصة للفوز بتمويل كبير وفرص الإرشاد. سيقدم عشرة متأهلين للتصفيات النهائية أفكار أعمالهم إلى لجنة من المستثمرين ذوي الخبرة وخبراء الصناعة. تتضمن المسابقة جلسات التواصل وورش عمل حول جمع الأموال وفرص الإرشاد الفردي. يحصل الفائزون على جوائز نقدية واتصالات مع المستثمرين والوصول إلى برامج التسريع.",
+    "date": "2024-08-10T10:00:00Z",
+    "endDate": "2024-08-10T17:00:00Z",
+    "location": {
+      "venue": "Innovation Hub",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States"
+    },
+    "category": "Business",
+    "tags": ["startups", "pitch", "entrepreneurship", "investors", "funding"],
+    "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+    "price": 150,
+    "attendeeCount": 300,
+    "maxAttendees": 400,
+    "organizer": {
+      "name": "Startup Ventures",
+      "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=100"
+    },
+    "featured": true,
+    "createdAt": "2024-03-20T08:00:00Z"
+  },
+  {
+    "id": "evt-006",
+    "slug": "yoga-meditation-retreat",
+    "title": "خلوة نهاية الأسبوع لليوجا والتأمل",
+    "description": "جدد عقلك وجسدك بخلوة نهاية أسبوع هادئة.",
+    "longDescription": "اهرب من صخب الحياة لخلوة نهاية أسبوع تحويلية تركز على اليوغا والتأمل واليقظة الذهنية. تقع في بيئة طبيعية هادئة، تتضمن هذه الخلوة جلسات يوغا يومية لجميع المستويات، وتأمل موجه، ومشي في الطبيعة، ووجبات صحية، وورش عمل حول إدارة الإجهاد والعافية. مثالية للمبتدئين والممارسين ذوي الخبرة على حد سواء. الإقامة وجميع الوجبات مشمولة في السعر.",
+    "date": "2024-09-14T08:00:00Z",
+    "endDate": "2024-09-16T18:00:00Z",
+    "location": {
+      "venue": "Mountain View Retreat Center",
+      "city": "Boulder",
+      "state": "Colorado",
+      "country": "United States"
+    },
+    "category": "Wellness",
+    "tags": ["yoga", "meditation", "wellness", "retreat", "mindfulness"],
+    "imageUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800",
+    "price": 350,
+    "attendeeCount": 40,
+    "maxAttendees": 50,
+    "organizer": {
+      "name": "Zen Wellness Center",
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100"
+    },
+    "featured": false,
+    "createdAt": "2024-04-10T12:00:00Z"
+  },
+  {
+    "id": "evt-007",
+    "slug": "food-festival-2024",
+    "title": "مهرجان الطعام الدولي 2024",
+    "description": "تذوق المأكولات من جميع أنحاء العالم في مهرجان الطعام السنوي لدينا.",
+    "longDescription": "يعود مهرجان الطعام الدولي مع المزيد من البائعين والطهاة والنكهات! جرب أطباقًا من أكثر من 30 دولة، وشاهد عروض الطهي الحية من قبل الطهاة المشاهير، وشارك في ورش عمل الطهي، واستمتع بالموسيقى الحية والترفيه. يتضمن المهرجان شاحنات الطعام والمطاعم المؤقتة وتذوق البيرة والنبيذ الحرفي ومنطقة للأطفال. هذا حدث مناسب للعائلة مع شيء للجميع.",
+    "date": "2024-07-27T11:00:00Z",
+    "endDate": "2024-07-27T20:00:00Z",
+    "location": {
+      "venue": "Waterfront Park",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States"
+    },
+    "category": "Food & Drink",
+    "tags": ["food", "festival", "international", "cuisine", "family-friendly"],
+    "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800",
+    "price": 25,
+    "attendeeCount": 3500,
+    "maxAttendees": 5000,
+    "organizer": {
+      "name": "Foodie Events Seattle",
+      "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=100"
+    },
+    "featured": true,
+    "createdAt": "2024-01-25T10:00:00Z"
+  },
+  {
+    "id": "evt-008",
+    "slug": "coding-bootcamp-workshop",
+    "title": "ورشة معسكر البرمجة الكامل",
+    "description": "ورشة عمل مكثفة ليوم واحد تغطي تقنيات تطوير الويب الحديثة.",
+    "longDescription": "تم تصميم ورشة عمل معسكر البرمجة الكامل المكثفة للمطورين الذين يريدون رفع مستوى مهاراتهم. تعلم React و Node.js وإدارة قواعد البيانات من خلال المشاريع العملية. تتضمن الورشة جلسات برمجة مباشرة وتمارين برمجة زوجية وفرصة للأسئلة والأجوبة مع مدربين ذوي خبرة. يحصل جميع المشاركون على مواد الدورة والوصول إلى الموارد عبر الإنترنت وشهادة إتمام. أجهزة الكمبيوتر المحمولة مطلوبة.",
+    "date": "2024-06-08T09:00:00Z",
+    "endDate": "2024-06-08T17:00:00Z",
+    "location": {
+      "venue": "Tech Academy",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States"
+    },
+    "category": "Education",
+    "tags": [
+      "coding",
+      "bootcamp",
+      "web development",
+      "programming",
+      "workshop"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800",
+    "price": 199,
+    "attendeeCount": 60,
+    "maxAttendees": 80,
+    "organizer": {
+      "name": "Code Academy Pro",
+      "avatar": "https://images.unsplash.com/photo-1502378735452-bc7d86632805?w=100"
+    },
+    "featured": false,
+    "createdAt": "2024-04-20T15:00:00Z"
+  },
+  {
+    "id": "evt-009",
+    "slug": "comedy-night-standup",
+    "title": "ليلة الكوميديا: عرض ستاند أب خاص",
+    "description": "اضحك طوال الليل مع أفضل الكوميديين يؤدون أفضل موادهم.",
+    "longDescription": "استعد لليلة من الضحك المستمر! يتضمن هذا العرض الكوميدي الخاص عروضًا من كوميديين معترف بهم على المستوى الوطني، بما في ذلك النجوم المعروفين والمواهب الصاعدة. يتضمن البرنامج عروض ستاند أب والكوميديا الارتجالية والتفاعل مع الجمهور. المكان الحميم يخلق الجو المثالي للكوميديا. بار كامل وقائمة طعام متاحة. يجب أن يكون عمرك 21+ للحضور.",
+    "date": "2024-07-05T19:30:00Z",
+    "endDate": "2024-07-05T23:00:00Z",
+    "location": {
+      "venue": "The Comedy Cellar",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States"
+    },
+    "category": "Entertainment",
+    "tags": ["comedy", "stand-up", "entertainment", "nightlife"],
+    "imageUrl": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=800",
+    "price": 35,
+    "attendeeCount": 180,
+    "maxAttendees": 200,
+    "organizer": {
+      "name": "Laugh Factory Events",
+      "avatar": "https://images.unsplash.com/photo-1519345182560-3f2917c472ef?w=100"
+    },
+    "featured": false,
+    "createdAt": "2024-05-15T13:00:00Z"
+  },
+  {
+    "id": "evt-010",
+    "slug": "sustainable-living-expo",
+    "title": "معرض العيش المستدام",
+    "description": "تعلم عن الممارسات الصديقة للبيئة والتقنيات المستدامة للحياة اليومية.",
+    "longDescription": "معرض العيش المستدام هو حدث شامل يعرض أحدث التقنيات الخضراء والممارسات المستدامة والمنتجات الصديقة للبيئة. تتضمن الميزات محادثات الخبراء حول تغير المناخ وعروض الطاقة المتجددة وحلول المنازل المستدامة وعروض المركبات الكهربائية وورش عمل حول تقليل البصمة الكربونية. تواصل مع المنظمات البيئية المحلية واكتشف طرقًا عملية للعيش بشكل أكثر استدامة.",
+    "date": "2024-08-24T10:00:00Z",
+    "endDate": "2024-08-24T18:00:00Z",
+    "location": {
+      "venue": "Eco Center",
+      "city": "Portland",
+      "state": "Oregon",
+      "country": "United States"
+    },
+    "category": "Environment",
+    "tags": [
+      "sustainability",
+      "environment",
+      "green technology",
+      "eco-friendly",
+      "climate"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=800",
+    "price": "free",
+    "attendeeCount": 800,
+    "maxAttendees": 1000,
+    "organizer": {
+      "name": "Green Future Initiative",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100"
+    },
+    "featured": true,
+    "createdAt": "2024-02-15T09:00:00Z"
+  },
+  {
+    "id": "evt-011",
+    "slug": "photography-workshop-masterclass",
+    "title": "ورشة التصوير الفوتوغرافي المتقدمة",
+    "description": "أتقن فن التصوير الفوتوغرافي بالتقنيات الاحترافية والممارسة العملية.",
+    "longDescription": "انضم إلى مصورين محترفين في ورشة عمل متقدمة تغطي التكوين والإضاءة وتصوير البورتريه وتصوير المناظر الطبيعية وتقنيات ما بعد المعالجة. تتضمن هذه الورشة التعليم في الفصل الدراسي وجلسات التصوير في الهواء الطلق. أحضر كاميرتك وتعلم التقاط صور مذهلة. مناسبة لجميع مستويات المهارة من المبتدئين إلى المصورين المتقدمين. يشمل الغداء ومواد الدورة.",
+    "date": "2024-09-28T09:00:00Z",
+    "endDate": "2024-09-28T17:00:00Z",
+    "location": {
+      "venue": "Creative Arts Studio",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States"
+    },
+    "category": "Arts & Culture",
+    "tags": ["photography", "workshop", "arts", "learning", "creative"],
+    "imageUrl": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=800",
+    "price": 125,
+    "attendeeCount": 25,
+    "maxAttendees": 30,
+    "organizer": {
+      "name": "Photo Masters Academy",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100"
+    },
+    "featured": false,
+    "createdAt": "2024-06-05T10:00:00Z"
+  },
+  {
+    "id": "evt-012",
+    "slug": "blockchain-cryptocurrency-summit",
+    "title": "قمة البلوك تشين والعملات المشفرة",
+    "description": "استكشف مستقبل تقنية البلوك تشين والعملات الرقمية.",
+    "longDescription": "تجمع قمة البلوك تشين والعملات المشفرة قادة الصناعة والمطورين والمستثمرين لمناقشة أحدث الاتجاهات في تقنية البلوك تشين والتمويل اللامركزي والرموز غير القابلة للاستبدال وأسواق العملات المشفرة. تتضمن الميزات عروضًا رئيسية وورش عمل تقنية ومناقشات جماعية وفرص للتواصل. تعلم عن العقود الذكية وعلم الرموز المميزة ومستقبل التمويل اللامركزي. مثالية للمطورين والمستثمرين وعشاق البلوك تشين.",
+    "date": "2024-10-12T09:00:00Z",
+    "endDate": "2024-10-12T18:00:00Z",
+    "location": {
+      "venue": "Tech Convention Hall",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States"
+    },
+    "category": "Technology",
+    "tags": ["blockchain", "cryptocurrency", "DeFi", "NFTs", "technology"],
+    "imageUrl": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800",
+    "price": 399,
+    "attendeeCount": 600,
+    "maxAttendees": 800,
+    "organizer": {
+      "name": "Crypto Events Network",
+      "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=100"
+    },
+    "featured": true,
+    "createdAt": "2024-03-10T08:00:00Z"
+  },
+  {
+    "id": "evt-013",
+    "slug": "wine-tasting-evening",
+    "title": "أمسية تذوق النبيذ",
+    "description": "اكتشف النبيذ الفاخر من جميع أنحاء العالم في أمسية أنيقة.",
+    "longDescription": "انضم إلينا في أمسية تذوق نبيذ أنيقة تضم اختيارات من مزارع الكروم المشهورة في جميع أنحاء العالم. تعلم عن مناطق النبيذ وأصناف العنب وتقنيات التذوق من خبراء السوميلييه. تتضمن الأمسية تذوقًا موجهًا للنبيذ الأحمر والأبيض والفوار، مقترنًا بالأجبان الحرفية واللحوم الباردة. مثالية لعشاق النبيذ والمبتدئين على حد سواء. يجب أن يكون عمرك 21+ للحضور.",
+    "date": "2024-08-30T18:00:00Z",
+    "endDate": "2024-08-30T22:00:00Z",
+    "location": {
+      "venue": "Vintage Wine Cellar",
+      "city": "Napa Valley",
+      "state": "California",
+      "country": "United States"
+    },
+    "category": "Food & Drink",
+    "tags": ["wine", "tasting", "food", "evening", "social"],
+    "imageUrl": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=800",
+    "price": 85,
+    "attendeeCount": 45,
+    "maxAttendees": 60,
+    "organizer": {
+      "name": "Wine Society Napa",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100"
+    },
+    "featured": false,
+    "createdAt": "2024-05-20T14:00:00Z"
+  },
+  {
+    "id": "evt-014",
+    "slug": "rock-climbing-adventure",
+    "title": "يوم تسلق الصخور والمغامرة",
+    "description": "تحدى نفسك بيوم من تسلق الصخور والمغامرة في الهواء الطلق.",
+    "longDescription": "اختبر متعة تسلق الصخور في بيئة آمنة وموجهة. يتضمن يوم المغامرة هذا تعليمًا للمبتدئين ومسارات تسلق متعددة لمستويات مهارة مختلفة ومعدات السلامة ومرشدين محترفين. سواء كنت مبتدئًا تمامًا أو متسلقًا ذا خبرة، هناك شيء للجميع. يتضمن اليوم الغداء وجميع المعدات اللازمة. لا يلزم وجود خبرة سابقة.",
+    "date": "2024-09-21T08:00:00Z",
+    "endDate": "2024-09-21T17:00:00Z",
+    "location": {
+      "venue": "Mountain Climbing Center",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States"
+    },
+    "category": "Sports & Fitness",
+    "tags": ["rock climbing", "adventure", "outdoor", "fitness", "sports"],
+    "imageUrl": "https://images.unsplash.com/photo-1516567720525-7830c99dbba6?w=800",
+    "price": 95,
+    "attendeeCount": 30,
+    "maxAttendees": 40,
+    "organizer": {
+      "name": "Adventure Sports Co.",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100"
+    },
+    "featured": false,
+    "createdAt": "2024-06-15T09:00:00Z"
+  },
+  {
+    "id": "evt-015",
+    "slug": "classical-music-concert",
+    "title": "حفلة موسيقية كلاسيكية",
+    "description": "استمتع بأمسية من الموسيقى الكلاسيكية الجميلة التي يؤديها أوركسترا مشهورة.",
+    "longDescription": "اختبر الجمال الخالد للموسيقى الكلاسيكية في هذه الحفلة الخاصة التي تضم أعمالًا لموتسارت وبيتهوفن وباخ. يؤديها أوركسترا عالمية المستوى تحت إشراف قائد أوركسترا مشهور، تعد هذه الأمسية برحلة موسيقية لا تُنسى. يتضمن البرنامج روائع معروفة وكنوزًا أقل شهرة. يُنصح بالزي الرسمي.",
+    "date": "2024-10-05T19:00:00Z",
+    "endDate": "2024-10-05T22:00:00Z",
+    "location": {
+      "venue": "Symphony Hall",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States"
+    },
+    "category": "Music",
+    "tags": ["classical", "music", "orchestra", "concert", "arts"],
+    "imageUrl": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=800",
+    "price": 65,
+    "attendeeCount": 350,
+    "maxAttendees": 500,
+    "organizer": {
+      "name": "Boston Symphony Orchestra",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100"
+    },
+    "featured": true,
+    "createdAt": "2024-04-25T11:00:00Z"
+  },
+  {
+    "id": "evt-016",
+    "slug": "digital-marketing-conference",
+    "title": "مؤتمر التسويق الرقمي 2024",
+    "description": "تعلم أحدث الاستراتيجيات والاتجاهات في التسويق الرقمي ووسائل التواصل الاجتماعي.",
+    "longDescription": "ابق في المقدمة مع رؤى من خبراء التسويق الرقمي الرائدين. يغطي هذا المؤتمر تحسين محركات البحث والتسويق بالمحتوى واستراتيجيات وسائل التواصل الاجتماعي والتسويق عبر البريد الإلكتروني والإعلانات المدفوعة والتحليلات والمنصات الناشئة. يتضمن ورش عمل عملية ودراسات حالة وجلسات تواصل. مثالي للمسوقين وأصحاب الأعمال وأي شخص يتطلع إلى تنمية وجوده على الإنترنت.",
+    "date": "2024-09-07T09:00:00Z",
+    "endDate": "2024-09-07T17:00:00Z",
+    "location": {
+      "venue": "Business Center",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States"
+    },
+    "category": "Business",
+    "tags": ["marketing", "digital", "social media", "business", "SEO"],
+    "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800",
+    "price": 249,
+    "attendeeCount": 500,
+    "maxAttendees": 600,
+    "organizer": {
+      "name": "Marketing Pro Events",
+      "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=100"
+    },
+    "featured": true,
+    "createdAt": "2024-05-10T08:00:00Z"
+  },
+  {
+    "id": "evt-017",
+    "slug": "cooking-class-italian-cuisine",
+    "title": "فصل الطهي للمأكولات الإيطالية",
+    "description": "تعلم طهي الأطباق الإيطالية الأصيلة من طاهٍ محترف.",
+    "longDescription": "أتقن فن الطهي الإيطالي في هذا الفصل العملي للطهي. تعلم تحضير أطباق كلاسيكية مثل باستا كاربونارا والريزوتو والتيراميسو والمزيد. يتضمن الفصل جميع المكونات ووصفات للعودة إلى المنزل ووجبة لذيذة في النهاية. مناسب لجميع مستويات المهارة. يشمل تذوق النبيذ. حد أقصى 12 مشاركًا للاهتمام الشخصي.",
+    "date": "2024-08-17T18:00:00Z",
+    "endDate": "2024-08-17T21:00:00Z",
+    "location": {
+      "venue": "Culinary Arts School",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States"
+    },
+    "category": "Food & Drink",
+    "tags": ["cooking", "Italian", "food", "class", "culinary"],
+    "imageUrl": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=800",
+    "price": 110,
+    "attendeeCount": 10,
+    "maxAttendees": 12,
+    "organizer": {
+      "name": "Chef's Table Events",
+      "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=100"
+    },
+    "featured": false,
+    "createdAt": "2024-06-20T12:00:00Z"
+  },
+  {
+    "id": "evt-018",
+    "slug": "mindfulness-meditation-workshop",
+    "title": "ورشة اليقظة والتأمل",
+    "description": "تعلم تقنيات لتقليل الإجهاد وتحسين الرفاهية العقلية.",
+    "longDescription": "اكتشف قوة اليقظة والتأمل في هذه الورشة الشاملة. تعلم تقنيات التأمل المختلفة وتمارين التنفس وممارسات اليقظة التي يمكنك دمجها في حياتك اليومية. تتضمن الورشة جلسات موجهة ومناقشات جماعية وتمارين عملية. مثالية للمبتدئين وأولئك الذين يتطلعون إلى تعميق ممارستهم. يشمل كتيب العمل وأدلة صوتية.",
+    "date": "2024-09-15T10:00:00Z",
+    "endDate": "2024-09-15T16:00:00Z",
+    "location": {
+      "venue": "Wellness Center",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States"
+    },
+    "category": "Wellness",
+    "tags": [
+      "mindfulness",
+      "meditation",
+      "wellness",
+      "mental health",
+      "stress relief"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800",
+    "price": 75,
+    "attendeeCount": 50,
+    "maxAttendees": 60,
+    "organizer": {
+      "name": "Mindful Living Institute",
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100"
+    },
+    "featured": false,
+    "createdAt": "2024-07-01T10:00:00Z"
+  },
+  {
+    "id": "evt-019",
+    "slug": "film-festival-indie-cinema",
+    "title": "مهرجان السينما المستقلة",
+    "description": "احتفل بالسينما المستقلة مع عروض أفلام حائزة على جوائز.",
+    "longDescription": "انضم إلينا للاحتفال بالسينما المستقلة التي تضم عروضًا لأفلام حائزة على جوائز من صانعي أفلام ناشئين. يتضمن المهرجان جلسات أسئلة وأجوبة مع المخرجين ومناقشات جماعية حول صناعة الأفلام وأحداث التواصل ومراسم الجوائز. اكتشف أصواتًا جديدة في السينما وادعم الفنانين المستقلين. عروض متعددة طوال اليوم مع تمثيل أنواع مختلفة.",
+    "date": "2024-10-20T10:00:00Z",
+    "endDate": "2024-10-20T22:00:00Z",
+    "location": {
+      "venue": "Cinema Arts Theater",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States"
+    },
+    "category": "Entertainment",
+    "tags": ["film", "cinema", "festival", "independent", "entertainment"],
+    "imageUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800",
+    "price": 40,
+    "attendeeCount": 200,
+    "maxAttendees": 300,
+    "organizer": {
+      "name": "Indie Film Collective",
+      "avatar": "https://images.unsplash.com/photo-1519345182560-3f2917c472ef?w=100"
+    },
+    "featured": true,
+    "createdAt": "2024-06-10T09:00:00Z"
+  },
+  {
+    "id": "evt-020",
+    "slug": "science-fair-innovation",
+    "title": "معرض العلوم ومعرض الابتكار",
+    "description": "استكشف عجائب العلوم والابتكار في معرض العلوم السنوي لدينا.",
+    "longDescription": "يعرض معرض العلوم ومعرض الابتكار مشاريع من الطلاب والباحثين والمبتكرين. تتضمن الميزات معارض تفاعلية وعروض حية وتجارب علمية وعروض روبوتات وعروض تقديمية حول الأبحاث المتطورة. مثالي للعائلات والطلاب وعشاق العلوم. يتضمن أنشطة عملية للأطفال وبائعي الطعام وورش عمل تعليمية.",
+    "date": "2024-09-30T09:00:00Z",
+    "endDate": "2024-09-30T17:00:00Z",
+    "location": {
+      "venue": "Science Museum",
+      "city": "Washington",
+      "state": "District of Columbia",
+      "country": "United States"
+    },
+    "category": "Education",
+    "tags": [
+      "science",
+      "education",
+      "innovation",
+      "family-friendly",
+      "learning"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800",
+    "price": "free",
+    "attendeeCount": 1200,
+    "maxAttendees": 2000,
+    "organizer": {
+      "name": "Science Education Foundation",
+      "avatar": "https://images.unsplash.com/photo-1502378735452-bc7d86632805?w=100"
+    },
+    "featured": true,
+    "createdAt": "2024-05-05T08:00:00Z"
+  }
+]

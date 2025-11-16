@@ -1,0 +1,284 @@
+[
+  {
+    "id": "evt-001",
+    "slug": "tech-innovation-summit-2024",
+    "title": "Tech Innovation Summit 2024",
+    "description": "Join industry leaders for a day of cutting-edge technology discussions and networking.",
+    "longDescription": "The Tech Innovation Summit 2024 brings together the brightest minds in technology to explore the latest trends, innovations, and future possibilities. This full-day event features keynote speeches from industry leaders, interactive workshops, panel discussions, and networking opportunities. Topics include AI/ML, cloud computing, cybersecurity, and emerging technologies. Whether you're a developer, entrepreneur, or tech enthusiast, this summit offers valuable insights and connections.",
+    "date": "2024-06-15T09:00:00Z",
+    "endDate": "2024-06-15T18:00:00Z",
+    "location": {
+      "venue": "Convention Center",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States"
+    },
+    "category": "Technology",
+    "tags": ["technology", "innovation", "networking", "AI", "startups"],
+    "imageUrl": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800",
+    "price": 299,
+    "attendeeCount": 450,
+    "maxAttendees": 500,
+    "organizer": {
+      "name": "Tech Events Inc.",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100"
+    },
+    "featured": true,
+    "createdAt": "2024-01-10T10:00:00Z"
+  },
+  {
+    "id": "evt-002",
+    "slug": "local-art-gallery-opening",
+    "title": "Local Art Gallery Opening",
+    "description": "Celebrate the opening of our new contemporary art exhibition featuring local artists.",
+    "longDescription": "Join us for an exclusive opening night celebration of our newest contemporary art exhibition. This event showcases the work of talented local artists, featuring paintings, sculptures, and digital art installations. Enjoy complimentary refreshments, live music, and the opportunity to meet the artists. The exhibition will run for three months, but opening night offers a special preview and the chance to purchase artwork before the public opening.",
+    "date": "2024-05-20T18:00:00Z",
+    "endDate": "2024-05-20T22:00:00Z",
+    "location": {
+      "venue": "Downtown Art Gallery",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States"
+    },
+    "category": "Arts & Culture",
+    "tags": ["art", "gallery", "exhibition", "local artists", "culture"],
+    "imageUrl": "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=800",
+    "price": "free",
+    "attendeeCount": 120,
+    "maxAttendees": 200,
+    "organizer": {
+      "name": "Art Collective NYC",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100"
+    },
+    "featured": false,
+    "createdAt": "2024-04-15T14:30:00Z"
+  },
+  {
+    "id": "evt-003",
+    "slug": "marathon-charity-run-2024",
+    "title": "Marathon Charity Run 2024",
+    "description": "Run for a cause! Join thousands of runners in our annual charity marathon.",
+    "longDescription": "The Marathon Charity Run 2024 is our biggest fundraising event of the year. Participants can choose between a full marathon (26.2 miles), half marathon (13.1 miles), or 5K fun run. All proceeds go directly to local children's charities. The route takes you through scenic city parks and historic neighborhoods. Every participant receives a commemorative t-shirt, medal, and post-race refreshments. Training programs and support groups are available for all skill levels.",
+    "date": "2024-07-08T07:00:00Z",
+    "endDate": "2024-07-08T14:00:00Z",
+    "location": {
+      "venue": "Central Park",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States"
+    },
+    "category": "Sports & Fitness",
+    "tags": ["marathon", "running", "charity", "fitness", "community"],
+    "imageUrl": "https://images.unsplash.com/photo-1571008887538-b36bb32f4571?w=800",
+    "price": 75,
+    "attendeeCount": 2500,
+    "maxAttendees": 3000,
+    "organizer": {
+      "name": "Charity Runners Association",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100"
+    },
+    "featured": true,
+    "createdAt": "2024-02-01T09:00:00Z"
+  },
+  {
+    "id": "evt-004",
+    "slug": "jazz-night-live-music",
+    "title": "Jazz Night: Live Music Experience",
+    "description": "An intimate evening of live jazz performances by renowned musicians.",
+    "longDescription": "Experience the magic of live jazz in an intimate setting. This special evening features performances by award-winning jazz musicians, including both classic standards and original compositions. The venue's acoustics are perfect for appreciating every note. Enjoy craft cocktails and gourmet small plates while listening to world-class music. Limited seating ensures an exclusive and memorable experience for all attendees.",
+    "date": "2024-06-22T20:00:00Z",
+    "endDate": "2024-06-23T00:00:00Z",
+    "location": {
+      "venue": "The Blue Note",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States"
+    },
+    "category": "Music",
+    "tags": ["jazz", "live music", "nightlife", "entertainment"],
+    "imageUrl": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=800",
+    "price": 45,
+    "attendeeCount": 85,
+    "maxAttendees": 100,
+    "organizer": {
+      "name": "Jazz Society Chicago",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100"
+    },
+    "featured": false,
+    "createdAt": "2024-05-01T11:00:00Z"
+  },
+  {
+    "id": "evt-005",
+    "slug": "startup-pitch-competition",
+    "title": "Startup Pitch Competition",
+    "description": "Watch innovative startups pitch their ideas to a panel of investors and win funding.",
+    "longDescription": "The Startup Pitch Competition brings together the most promising early-stage startups for a chance to win significant funding and mentorship opportunities. Ten finalists will present their business ideas to a panel of experienced investors and industry experts. The competition includes networking sessions, workshops on fundraising, and one-on-one mentorship opportunities. Winners receive cash prizes, investor connections, and access to accelerator programs.",
+    "date": "2024-08-10T10:00:00Z",
+    "endDate": "2024-08-10T17:00:00Z",
+    "location": {
+      "venue": "Innovation Hub",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States"
+    },
+    "category": "Business",
+    "tags": ["startups", "pitch", "entrepreneurship", "investors", "funding"],
+    "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800",
+    "price": 150,
+    "attendeeCount": 300,
+    "maxAttendees": 400,
+    "organizer": {
+      "name": "Startup Ventures",
+      "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=100"
+    },
+    "featured": true,
+    "createdAt": "2024-03-20T08:00:00Z"
+  },
+  {
+    "id": "evt-006",
+    "slug": "yoga-meditation-retreat",
+    "title": "Weekend Yoga & Meditation Retreat",
+    "description": "Rejuvenate your mind and body with a peaceful weekend retreat.",
+    "longDescription": "Escape the hustle and bustle for a transformative weekend retreat focused on yoga, meditation, and mindfulness. Set in a serene natural environment, this retreat includes daily yoga sessions for all levels, guided meditation, nature walks, healthy meals, and workshops on stress management and wellness. Perfect for beginners and experienced practitioners alike. Accommodation and all meals are included in the price.",
+    "date": "2024-09-14T08:00:00Z",
+    "endDate": "2024-09-16T18:00:00Z",
+    "location": {
+      "venue": "Mountain View Retreat Center",
+      "city": "Boulder",
+      "state": "Colorado",
+      "country": "United States"
+    },
+    "category": "Wellness",
+    "tags": ["yoga", "meditation", "wellness", "retreat", "mindfulness"],
+    "imageUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800",
+    "price": 350,
+    "attendeeCount": 40,
+    "maxAttendees": 50,
+    "organizer": {
+      "name": "Zen Wellness Center",
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100"
+    },
+    "featured": false,
+    "createdAt": "2024-04-10T12:00:00Z"
+  },
+  {
+    "id": "evt-007",
+    "slug": "food-festival-2024",
+    "title": "International Food Festival 2024",
+    "description": "Taste cuisines from around the world at our annual food festival.",
+    "longDescription": "The International Food Festival is back with even more vendors, chefs, and flavors! Sample dishes from over 30 countries, watch live cooking demonstrations by celebrity chefs, participate in cooking workshops, and enjoy live music and entertainment. The festival features food trucks, pop-up restaurants, craft beer and wine tastings, and a kids' zone. This is a family-friendly event with something for everyone.",
+    "date": "2024-07-27T11:00:00Z",
+    "endDate": "2024-07-27T20:00:00Z",
+    "location": {
+      "venue": "Waterfront Park",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States"
+    },
+    "category": "Food & Drink",
+    "tags": ["food", "festival", "international", "cuisine", "family-friendly"],
+    "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800",
+    "price": 25,
+    "attendeeCount": 3500,
+    "maxAttendees": 5000,
+    "organizer": {
+      "name": "Foodie Events Seattle",
+      "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=100"
+    },
+    "featured": true,
+    "createdAt": "2024-01-25T10:00:00Z"
+  },
+  {
+    "id": "evt-008",
+    "slug": "coding-bootcamp-workshop",
+    "title": "Full-Stack Coding Bootcamp Workshop",
+    "description": "Intensive one-day workshop covering modern web development technologies.",
+    "longDescription": "This intensive full-stack coding bootcamp workshop is designed for developers who want to level up their skills. Learn React, Node.js, and database management through hands-on projects. The workshop includes live coding sessions, pair programming exercises, and Q&A with experienced instructors. All participants receive course materials, access to online resources, and a certificate of completion. Laptops required.",
+    "date": "2024-06-08T09:00:00Z",
+    "endDate": "2024-06-08T17:00:00Z",
+    "location": {
+      "venue": "Tech Academy",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States"
+    },
+    "category": "Education",
+    "tags": [
+      "coding",
+      "bootcamp",
+      "web development",
+      "programming",
+      "workshop"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800",
+    "price": 199,
+    "attendeeCount": 60,
+    "maxAttendees": 80,
+    "organizer": {
+      "name": "Code Academy Pro",
+      "avatar": "https://images.unsplash.com/photo-1502378735452-bc7d86632805?w=100"
+    },
+    "featured": false,
+    "createdAt": "2024-04-20T15:00:00Z"
+  },
+  {
+    "id": "evt-009",
+    "slug": "comedy-night-standup",
+    "title": "Comedy Night: Stand-Up Special",
+    "description": "Laugh the night away with top comedians performing their best material.",
+    "longDescription": "Get ready for a night of non-stop laughter! This comedy special features performances by nationally recognized comedians, including both established stars and rising talents. The lineup includes stand-up sets, improv comedy, and audience interaction. The intimate venue creates the perfect atmosphere for comedy. Full bar and food menu available. Must be 21+ to attend.",
+    "date": "2024-07-05T19:30:00Z",
+    "endDate": "2024-07-05T23:00:00Z",
+    "location": {
+      "venue": "The Comedy Cellar",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States"
+    },
+    "category": "Entertainment",
+    "tags": ["comedy", "stand-up", "entertainment", "nightlife"],
+    "imageUrl": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=800",
+    "price": 35,
+    "attendeeCount": 180,
+    "maxAttendees": 200,
+    "organizer": {
+      "name": "Laugh Factory Events",
+      "avatar": "https://images.unsplash.com/photo-1519345182560-3f2917c472ef?w=100"
+    },
+    "featured": false,
+    "createdAt": "2024-05-15T13:00:00Z"
+  },
+  {
+    "id": "evt-010",
+    "slug": "sustainable-living-expo",
+    "title": "Sustainable Living Expo",
+    "description": "Learn about eco-friendly practices and sustainable technologies for everyday life.",
+    "longDescription": "The Sustainable Living Expo is a comprehensive event showcasing the latest in green technology, sustainable practices, and eco-friendly products. Features include expert talks on climate change, renewable energy demonstrations, sustainable home solutions, electric vehicle displays, and workshops on reducing your carbon footprint. Connect with local environmental organizations and discover practical ways to live more sustainably.",
+    "date": "2024-08-24T10:00:00Z",
+    "endDate": "2024-08-24T18:00:00Z",
+    "location": {
+      "venue": "Eco Center",
+      "city": "Portland",
+      "state": "Oregon",
+      "country": "United States"
+    },
+    "category": "Environment",
+    "tags": [
+      "sustainability",
+      "environment",
+      "green technology",
+      "eco-friendly",
+      "climate"
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=800",
+    "price": "free",
+    "attendeeCount": 800,
+    "maxAttendees": 1000,
+    "organizer": {
+      "name": "Green Future Initiative",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100"
+    },
+    "featured": true,
+    "createdAt": "2024-02-15T09:00:00Z"
+  }
+]

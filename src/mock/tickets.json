@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ticket-001",
+    "eventId": "evt-001",
+    "eventSlug": "tech-innovation-summit-2024",
+    "eventTitle": "Tech Innovation Summit 2024",
+    "attendeeName": "John Doe",
+    "attendeeEmail": "john.doe@example.com",
+    "attendeeMobile": "+1-555-0123",
+    "eventDate": "2024-06-15T09:00:00Z",
+    "bookingDate": "2024-05-01T10:00:00Z",
+    "price": 299,
+    "status": "confirmed"
+  },
+  {
+    "id": "ticket-002",
+    "eventId": "evt-003",
+    "eventSlug": "marathon-charity-run-2024",
+    "eventTitle": "Marathon Charity Run 2024",
+    "attendeeName": "John Doe",
+    "attendeeEmail": "john.doe@example.com",
+    "attendeeMobile": "+1-555-0123",
+    "eventDate": "2024-07-08T07:00:00Z",
+    "bookingDate": "2024-06-15T14:30:00Z",
+    "price": 75,
+    "status": "confirmed"
+  },
+  {
+    "id": "ticket-003",
+    "eventId": "evt-007",
+    "eventSlug": "food-festival-2024",
+    "eventTitle": "International Food Festival 2024",
+    "attendeeName": "John Doe",
+    "attendeeEmail": "john.doe@example.com",
+    "attendeeMobile": "+1-555-0123",
+    "eventDate": "2024-07-27T11:00:00Z",
+    "bookingDate": "2024-07-01T09:15:00Z",
+    "price": 25,
+    "status": "confirmed"
+  }
+]
+

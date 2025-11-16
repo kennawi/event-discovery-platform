@@ -1,0 +1,103 @@
+{
+  "common": {
+    "eventBooking": "حجز الفعاليات",
+    "events": "الفعاليات",
+    "myTickets": "تذاكري",
+    "browseEvents": "تصفح الفعاليات",
+    "backToEvents": "العودة إلى الفعاليات",
+    "viewDetails": "عرض التفاصيل",
+    "bookTicket": "حجز تذكرة",
+    "processing": "جاري المعالجة...",
+    "close": "إغلاق",
+    "loading": "جاري التحميل...",
+    "search": "بحث",
+    "filter": "تصفية",
+    "all": "الكل",
+    "featured": "مميز",
+    "free": "مجاني",
+    "soldOut": "نفدت التذاكر",
+    "confirmed": "مؤكد",
+    "print": "طباعة"
+  },
+  "navigation": {
+    "events": "الفعاليات",
+    "myTickets": "تذاكري"
+  },
+  "events": {
+    "title": "الفعاليات القادمة",
+    "searchPlaceholder": "ابحث عن الفعاليات بالعنوان أو الوصف أو العلامات...",
+    "category": "الفئة",
+    "allCategories": "جميع الفئات",
+    "location": "الموقع",
+    "allLocations": "جميع المواقع",
+    "date": "التاريخ",
+    "selectDate": "اختر التاريخ",
+    "resultsCount": "تم العثور على {count} {count, plural, one {فعالية} other {فعالية}}",
+    "noEvents": "لم يتم العثور على فعاليات",
+    "noEventsDescription": "حاول تعديل عوامل التصفية لرؤية المزيد من النتائج."
+  },
+  "eventDetail": {
+    "eventDetails": "تفاصيل الفعالية",
+    "eventNotFound": "الفعالية غير موجودة",
+    "eventNotFoundDescription": "الفعالية التي تبحث عنها غير موجودة.",
+    "backToEvents": "العودة إلى الفعاليات",
+    "organizer": "المنظم",
+    "attendees": "مشارك",
+    "bookTicket": "حجز تذكرة",
+    "soldOut": "نفدت التذاكر"
+  },
+  "booking": {
+    "bookYourTicket": "احجز تذكرتك",
+    "fullName": "الاسم الكامل",
+    "fullNameDescription": "أدخل اسمك الكامل لحجز تذكرتك.",
+    "fullNamePlaceholder": "أدخل اسمك الكامل",
+    "emailAddress": "عنوان البريد الإلكتروني",
+    "emailDescription": "أدخل عنوان بريدك الإلكتروني لحجز تذكرتك.",
+    "emailPlaceholder": "أدخل عنوان بريدك الإلكتروني",
+    "mobileNumber": "رقم الجوال",
+    "mobileDescription": "أدخل رقم جوالك لحجز تذكرتك.",
+    "mobilePlaceholder": "أدخل رقم جوالك",
+    "eventDate": "تاريخ الفعالية",
+    "dateDescription": "اختر تاريخ الفعالية لحجز تذكرتك.",
+    "datePlaceholder": "اختر تاريخ الفعالية",
+    "eventSummary": "ملخص الفعالية",
+    "date": "التاريخ",
+    "location": "الموقع",
+    "price": "السعر",
+    "backToEventDetails": "العودة إلى تفاصيل الفعالية",
+    "successTitle": "تم الحجز بنجاح!",
+    "successDescription": "تم حجز تذكرتك بنجاح. يمكنك عرض تذاكرك في صفحة تذاكري.",
+    "viewMyTickets": "عرض تذاكري",
+    "backToEvent": "العودة إلى الفعالية",
+    "errorTitle": "فشل الحجز",
+    "ticketBookedSuccessfully": "تم حجز التذكرة بنجاح! تم تأكيد حجزك."
+  },
+  "tickets": {
+    "title": "تذاكري",
+    "yourBookedTickets": "تذاكرك المحجوزة",
+    "event": "الفعالية",
+    "attendee": "المشارك",
+    "eventDate": "تاريخ الفعالية",
+    "price": "السعر",
+    "status": "الحالة",
+    "actions": "الإجراءات",
+    "noTickets": "ليس لديك أي تذاكر بعد.",
+    "ticketBookedSuccessfully": "تم حجز التذكرة بنجاح! تم تأكيد حجزك."
+  },
+  "validation": {
+    "nameRequired": "الاسم مطلوب",
+    "emailInvalid": "عنوان بريد إلكتروني غير صحيح",
+    "emailRequired": "البريد الإلكتروني مطلوب",
+    "mobileRequired": "رقم الجوال مطلوب",
+    "mobileMinLength": "يجب أن يكون رقم الجوال 8 أحرف على الأقل",
+    "mobileMaxLength": "رقم الجوال طويل جداً",
+    "mobileInvalid": "الرجاء إدخال رقم جوال صحيح",
+    "dateRequired": "التاريخ مطلوب",
+    "dateInvalid": "الرجاء اختيار تاريخ صحيح",
+    "datePast": "لا يمكن أن يكون التاريخ في الماضي"
+  },
+  "pagination": {
+    "previous": "السابق",
+    "next": "التالي"
+  }
+}

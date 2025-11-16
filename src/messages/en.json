@@ -1,0 +1,103 @@
+{
+  "common": {
+    "eventBooking": "Event Booking",
+    "events": "Events",
+    "myTickets": "My Tickets",
+    "browseEvents": "Browse Events",
+    "backToEvents": "Back to Events",
+    "viewDetails": "View Details",
+    "bookTicket": "Book Ticket",
+    "processing": "Processing...",
+    "close": "Close",
+    "loading": "Loading...",
+    "search": "Search",
+    "filter": "Filter",
+    "all": "All",
+    "featured": "Featured",
+    "free": "Free",
+    "soldOut": "Sold Out",
+    "confirmed": "Confirmed",
+    "print": "Print"
+  },
+  "navigation": {
+    "events": "Events",
+    "myTickets": "My Tickets"
+  },
+  "events": {
+    "title": "Upcoming Events",
+    "searchPlaceholder": "Search events by title, description, or tags...",
+    "category": "Category",
+    "allCategories": "All Categories",
+    "location": "Location",
+    "allLocations": "All Locations",
+    "date": "Date",
+    "selectDate": "Select date",
+    "resultsCount": "{count} {count, plural, one {event} other {events}} found",
+    "noEvents": "No events found",
+    "noEventsDescription": "Try adjusting your filters to see more results."
+  },
+  "eventDetail": {
+    "eventDetails": "Event Details",
+    "eventNotFound": "Event Not Found",
+    "eventNotFoundDescription": "The event you're looking for doesn't exist.",
+    "backToEvents": "Back to Events",
+    "organizer": "Organizer",
+    "attendees": "attendees",
+    "bookTicket": "Book Ticket",
+    "soldOut": "Sold Out"
+  },
+  "booking": {
+    "bookYourTicket": "Book Your Ticket",
+    "fullName": "Full Name",
+    "fullNameDescription": "Enter your full name to book your ticket.",
+    "fullNamePlaceholder": "Enter your full name",
+    "emailAddress": "Email Address",
+    "emailDescription": "Enter your email address to book your ticket.",
+    "emailPlaceholder": "Enter your email address",
+    "mobileNumber": "Mobile Number",
+    "mobileDescription": "Enter your mobile number to book your ticket.",
+    "mobilePlaceholder": "Enter your mobile number",
+    "eventDate": "Event Date",
+    "dateDescription": "Select the event date to book your ticket.",
+    "datePlaceholder": "Select the event date",
+    "eventSummary": "Event Summary",
+    "date": "Date",
+    "location": "Location",
+    "price": "Price",
+    "backToEventDetails": "Back to Event Details",
+    "successTitle": "Booking Successful!",
+    "successDescription": "Your ticket has been booked successfully. You can view your tickets in the My Tickets page.",
+    "viewMyTickets": "View My Tickets",
+    "backToEvent": "Back to Event",
+    "errorTitle": "Booking Failed",
+    "ticketBookedSuccessfully": "Ticket booked successfully! Your booking has been confirmed."
+  },
+  "tickets": {
+    "title": "My Tickets",
+    "yourBookedTickets": "Your Booked Tickets",
+    "event": "Event",
+    "attendee": "Attendee",
+    "eventDate": "Event Date",
+    "price": "Price",
+    "status": "Status",
+    "actions": "Actions",
+    "noTickets": "You don't have any tickets yet.",
+    "ticketBookedSuccessfully": "Ticket booked successfully! Your booking has been confirmed."
+  },
+  "validation": {
+    "nameRequired": "Name is required",
+    "emailInvalid": "Invalid email address",
+    "emailRequired": "Email is required",
+    "mobileRequired": "Mobile number is required",
+    "mobileMinLength": "Mobile number must be at least 8 characters",
+    "mobileMaxLength": "Mobile number is too long",
+    "mobileInvalid": "Please enter a valid mobile number",
+    "dateRequired": "Date is required",
+    "dateInvalid": "Please select a valid date",
+    "datePast": "Date cannot be in the past"
+  },
+  "pagination": {
+    "previous": "Previous",
+    "next": "Next"
+  }
+}
