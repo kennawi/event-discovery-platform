@@ -49,6 +49,7 @@
   "booking": {
     "bookTicket": "حجز تذكرة",
     "bookYourTicket": "احجز تذكرتك",
+    "processing": "جاري المعالجة...",
     "fullName": "الاسم الكامل",
     "fullNameDescription": "أدخل اسمك الكامل لحجز تذكرتك.",
     "fullNamePlaceholder": "أدخل اسمك الكامل",

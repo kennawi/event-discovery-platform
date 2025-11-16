@@ -49,6 +49,7 @@
   "booking": {
     "bookTicket": "Book Ticket",
     "bookYourTicket": "Book Your Ticket",
+    "processing": "Processing...",
     "fullName": "Full Name",
     "fullNameDescription": "Enter your full name to book your ticket.",
     "fullNamePlaceholder": "Enter your full name",
