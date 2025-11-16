@@ -40,7 +40,6 @@ export function BookingForm({ eventId, eventSlug }: BookingFormProps) {
       name: "",
       email: "",
       mobile: "",
-      date: new Date(),
     },
   });
 
